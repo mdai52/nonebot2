@@ -5569,7 +5569,7 @@
   {
     "module_name": "nonebot_plugin_fishing",
     "project_link": "nonebot-plugin-fishing",
-    "author": "C14H22O",
+    "author": "ALittleBot",
     "tags": [
       {
         "label": "钓鱼",
@@ -6516,6 +6516,122 @@
     "module_name": "nonebot_plugin_weiweibot",
     "project_link": "nonebot-plugin-weiweibot",
     "author": "SwedishDoveCooker",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_autopush",
+    "project_link": "nonebot-plugin-autopush",
+    "author": "This-is-XiaoDeng",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_exe_code",
+    "project_link": "nonebot-plugin-exe-code",
+    "author": "wyf7685",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_system_command",
+    "project_link": "nonebot-plugin-system-command",
+    "author": "tkgs0",
+    "tags": [
+      {
+        "label": "shell",
+        "color": "#0078d4"
+      },
+      {
+        "label": "cmd",
+        "color": "#24292f"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_cogvideox",
+    "project_link": "nonebot-plugin-cogvideox",
+    "author": "Alpaca4610",
+    "tags": [
+      {
+        "label": "AI",
+        "color": "#ea5252"
+      },
+      {
+        "label": "视频生成",
+        "color": "#1a30b7"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_gpt_sovits",
+    "project_link": "nonebot-plugin-gpt-sovits",
+    "author": "zhaomaoniu",
+    "tags": [
+      {
+        "label": "GPT-SoVITS",
+        "color": "#000000"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_wakatime",
+    "project_link": "nonebot-plugin-wakatime",
+    "author": "KomoriDev",
+    "tags": [
+      {
+        "label": "WakaTime",
+        "color": "#000000"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_sunoai",
+    "project_link": "nonebot-plugin-sunoai",
+    "author": "CCYellowStar2",
+    "tags": [
+      {
+        "label": "SunoAi",
+        "color": "#ea5252"
+      },
+      {
+        "label": "AI歌曲",
+        "color": "#ea5252"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_function",
+    "project_link": "nonebot-plugin-function",
+    "author": "zhongwen-4",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_web_bottle",
+    "project_link": "nonebot-plugin-web-bottle",
+    "author": "luosheng520qaq",
+    "tags": [
+      {
+        "label": "漂流瓶",
+        "color": "#689dd0"
+      },
+      {
+        "label": "审核",
+        "color": "#e3567b"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_deer_pipe",
+    "project_link": "nonebot-plugin-deer-pipe",
+    "author": "SamuNatsu",
     "tags": [],
     "is_official": false
   }
